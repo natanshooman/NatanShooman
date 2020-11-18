@@ -15,3 +15,7 @@ I'm strongly considering purchasing the new Macbook Air. I think that it will be
 I'm now working on pushing lots of code to the web that I will be coding during my lunch break. 
 Look forward to more coming soon. 
 
+You can check out some of my games:
+
+
+
