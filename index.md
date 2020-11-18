@@ -15,3 +15,4 @@ I'm strongly considering purchasing the new Macbook Air. I think that it will be
 I'm now working on pushing lots of code to the web that I will be coding during my lunch break. 
 Look forward to more coming soon. 
 
+[Check out some of my games] (https://github.com/natanshooman/NatanShooman/games)
