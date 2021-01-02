@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Natan's Blog</title>
+        <style> 
+    </head>
+    <body>
+        
+        <h1>Natan's blog</h1>
+
+        <h3>Contents</h3>
+        <ul>
+            <li><a href = "#unlimited">Unlimited Memory</li>
+            <li>Ultralearning</li>
+        </ul>
+        
+        
+        
+        <h2 id = "unlimited">Unlimited Memory</h2>
+        <h6>We can remember and learn more that we currently think we can!</h6>
+        
+        <p>Our minds have superpowers, we just need to unleash them. We can create systems for remembering things like creating a story to a series of items. </p>
+        
+        
+        <h2 id = ultralearning" >Ultralearning</h2>
+        <h6>By creating a goal for what we would like to learn we are able to achive so much more. Make sure to quickly find the best resources. Then use these resouces to achive your goal
+        You will be able to see if these are quality resources that will help you achive your goal. </h6>
+        <p>My superlearning proect is to become a full-stack web devloper.</p>
+    </body>
+</html>
